@@ -1,0 +1,18 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "2dd4ab97-afbc-4636-a5d5-4a107489e1eb",
+    "appKeys": {},
+    "longName": "PebbleHelloWorld",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "PebbleHelloWorld",
+    "companyName": "arwyn.anthony",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": []
+    }
+}
